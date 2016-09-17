@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadarGDL</string>
+    <string name="title_activity_radar">Radar Doppler GDL</string>
+    <string name="URL">http://astro.iam.udg.mx/radar/imagen_actuali.png</string>
+    <string name="banner_home_footer">ca-app-pub-7052525316808571/9692655849</string>
+    <string name="google_maps_key">AIzaSyAwgNpxQA0XonAvVRY5HCoeWlQphgyCC6I</string>
+    <string name="lat" ></string>
+    <string name="lng" ></string>
+</resources>
